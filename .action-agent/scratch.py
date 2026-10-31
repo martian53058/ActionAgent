@@ -1,5 +1,5 @@
 """
-run = true
+run = false
 name = "OP13AirDrop baseline diagnosis"
 reason = "Run the repository's documented host-side checks and regression suites before making a repair."
 timeout = 1800
